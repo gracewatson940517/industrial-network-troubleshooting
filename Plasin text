@@ -1,0 +1,23 @@
+industrial-it-notes/
+├── README.md
+├── docker/
+│   ├── frontend-deployment.md
+│   ├── harbor-image-push.md
+│   └── container-troubleshooting.md
+├── industrial-weighbridge/
+│   ├── trackweight-status.md
+│   ├── realtime-database-query.md
+│   ├── weighbridge-log-analysis.md
+│   └── weighbridge-data-collection.md
+├── troubleshooting/
+│   ├── ftp-upload-failure.md
+│   ├── tls12-fix.md
+│   ├── industrial-network-diagnostics.md
+│   └── windows-industrial-pc-issues.md
+├── deployment/
+│   ├── backend-service-deployment.md
+│   ├── frontend-build-process.md
+│   └── docker-compose-operations.md
+└── docs/
+    ├── infrastructure-overview.md
+    └── operation-guidelines.md
